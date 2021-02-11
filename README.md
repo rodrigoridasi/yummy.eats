@@ -1,6 +1,5 @@
 <h1 align="center" >
-  <img alt="yummy.eats" width="250px"
-  src="./.github/yummy-eats.png">
+  <img alt="yummy.eats" width="250px" src="./.github/yummy-eats.png">
 </h1>
 
 <p align="center">
@@ -28,4 +27,10 @@ This project was developed with the following technologies:
 [The 2020 Frontend Developer Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=QA0XpGhiz5w)
 
 ## 🎨 Layout
+
+<p align="center">
+  <img alt="yummy.eats" width="49%" src="./.github/mobile-yummy-eat.png">
+  <img alt="yummy.eats" width="49%" src="./.github/desktop-yummy-eat.png">
+</p>
+
 Designed by [DesignCourse](https://www.youtube.com/c/DesignCourse/featured)
