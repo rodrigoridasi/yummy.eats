@@ -29,8 +29,8 @@ This project was developed with the following technologies:
 ## 🎨 Layout
 
 <p align="center">
-  <img alt="yummy.eats" width="49%" src="./.github/mobile-yummy-eat.png">
   <img alt="yummy.eats" width="49%" src="./.github/desktop-yummy-eat.png">
+  <img alt="yummy.eats" width="49%" src="./.github/mobile-yummy-eat.png">
 </p>
 
 Designed by [DesignCourse](https://www.youtube.com/c/DesignCourse/featured)
